@@ -1,0 +1,9 @@
+#设置端口
+server:
+  port: 8989
+
+
+spring:
+  thymeleaf:
+    prefix: classpath:/html/
+    cache: false
